@@ -33,7 +33,7 @@ VectorSearch-Pro 是一个面向**搜索/向量存储工程师**岗位的专业�
 ## 🏗️ 系统架构
 
 ```
-<img width="2580" height="1720" alt="image" src="https://github.com/user-attachments/assets/13c9b2b0-295d-407c-89c5-71024f8759fa" />
+<img width="2580" height="1720" alt="rag架构图" src="https://github.com/user-attachments/assets/cd0d2e32-fa08-4e8c-aa5b-d6eddac4d729" />
 
 ```
 
